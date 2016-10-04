@@ -39,7 +39,7 @@ Explore more example on [examplesSee more about [react-bootstrap-table]
 You can use the following commands to prepare development
 ```bash
 $ git clone https://github.com/AllenFang/react-bootstrap-table.git
-$ cd react-bootstrap-table
+$ cd rbt-mod
 $ npm install
 ```
 Use gulp to build the react-bootstrap-table
@@ -52,7 +52,7 @@ $ gulp prod #for production
 ## Usage
 ### a.Install
 ```bash
-npm install react-bootstrap-table --save
+npm install rbt-mod --save
 ```
 
 ### b.Import Module
@@ -129,8 +129,8 @@ React.render(
 ### More react-bootstrap-table examples
 The example source codes is in the [examples](https://github.com/AllenFang/react-bootstrap-table/tree/master/examples) folder. Run  the following commands for a live demo.</br>
 ```bash
-$ git clone https://github.com/AllenFang/react-bootstrap-table.git
-$ cd react-bootstrap-table
+$ git clone https://github.com/DarkKnight1992/rbt-mod.git
+$ cd rbt-mod
 $ npm install
 $ gulp example-server #after start, open browser and go to http://localhost:3004
 ```
