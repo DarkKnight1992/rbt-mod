@@ -1,11 +1,11 @@
 {
-  "name": "react-bootstrap-table",
-  "version": "2.5.5",
-  "description": "It's a react table for bootstrap",
+  "name": "rbt-mod",
+  "version": "1.0.0",
+  "description": "It's a react table for bootstrap built on react-bootstrap-table",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AllenFang/react-bootstrap-table.git"
+    "url": "git+https://github.com/DarkKnight1992/rbt-mod.git"
   },
   "scripts": {
     "lint": "eslint src",
@@ -27,9 +27,7 @@
   "tags": [
     "react"
   ],
-  "author": {
-    "name": "AllenFang"
-  },
+  "author": "AllenFang",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.29",
@@ -77,34 +75,24 @@
       "<rootDir>/node_modules/react"
     ]
   },
-  "gitHead": "24f9e44cc0157e92ebd578578561036aba7a528c",
   "bugs": {
-    "url": "https://github.com/AllenFang/react-bootstrap-table/issues"
+    "url": "https://github.com/DarkKnight1992/rbt-mod/issues"
   },
-  "homepage": "https://github.com/AllenFang/react-bootstrap-table#readme",
-  "_id": "react-bootstrap-table@2.5.5",
+  "homepage": "https://github.com/DarkKnight1992/rbt-mod#readme",
   "_shasum": "ee134c0175f47d991dcf7fa1d9d22c90350a0323",
   "_from": "react-bootstrap-table@>=2.5.0 <3.0.0",
   "_npmVersion": "2.11.3",
   "_nodeVersion": "4.2.1",
   "_npmUser": {
-    "name": "allenfang",
-    "email": "ayu780129@hotmail.com"
-  },
-  "dist": {
-    "shasum": "ee134c0175f47d991dcf7fa1d9d22c90350a0323",
-    "tarball": "https://registry.npmjs.org/react-bootstrap-table/-/react-bootstrap-table-2.5.5.tgz"
+    "name": "Suraj Sudhera",
+    "email": "suraj.sudhera@gmail.com"
   },
   "maintainers": [
-    {
-      "name": "allenfang",
-      "email": "ayu780129@hotmail.com"
-    }
+    "Suraj Sudhera <suraj.sudhera@gmail.com>"
   ],
   "_npmOperationalInternal": {
     "host": "packages-16-east.internal.npmjs.com",
     "tmp": "tmp/react-bootstrap-table-2.5.5.tgz_1475313203827_0.3402807132806629"
   },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/react-bootstrap-table/-/react-bootstrap-table-2.5.5.tgz"
-}
+  "directories": {}
+ }
